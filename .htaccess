@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile /private/.htpasswd
+AuthUserFile /awp8883-cc.github.io/private/.htpasswd
 Require valid-user
