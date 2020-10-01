@@ -1,0 +1,4 @@
+AuthUserFile /private/.htpasswd
+AuthName "index"
+AuthType Basic
+require valid-user
